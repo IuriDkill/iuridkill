@@ -26,7 +26,7 @@ Sou um desenvolvedor com experiência principalmente em front-end. Tenho um fort
 
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
 
-- [LinkedIn]([url_do_linkedin](https://www.linkedin.com/in/iuri-mundstock-905397192/))
+- [LinkedIn](https://www.linkedin.com/in/iuri-mundstock-905397192/)
 - [Email](iuri.andrade.mundstock@gmail.com)
 
 ---
