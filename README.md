@@ -8,6 +8,7 @@ Desenvolvedor de software apaixonado por tecnologia e inovação. Aqui você enc
 
 Sou um desenvolvedor com experiência principalmente em front-end. Tenho um forte interesse em cyber segurança e estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
+- 🎓 Formação: Mestrando em engenharia de Computação (Frug)
 - 🎓 Formação: Engenheiro de Computação (Furg)
 - 💼 Atualmente trabalhando em: Desenvolvedor de software
 
