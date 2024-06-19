@@ -1,7 +1,3 @@
-# Meu Portfólio
-
-![Banner](url_da_sua_imagem)
-
 ## Olá! Eu sou Iuri Mundstock 👋
 
 Desenvolvedor de software apaixonado por tecnologia e inovação. Aqui você encontrará informações sobre minhas habilidades e experiências.
