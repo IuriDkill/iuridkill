@@ -36,8 +36,8 @@ Sou um desenvolvedor com experiência principalmente em front-end. Tenho um fort
 <br>
     
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IuriDkill&theme=radical&bg_color=161b22&hide_border=true" height="160" alt="Iuri's Activity Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IuriDkill&theme=radical&background=161b22&hide_border=true" height="160" alt="Iuri's Streak Statistics"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IuriDkill&theme=github-dark-dimmed&bg_color=161b22&hide_border=true" height="160" alt="Iuri's Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IuriDkill&theme=github-dark-dimmed&background=161b22&hide_border=true" height="160" alt="Iuri's Streak Statistics"/>
 </div>
 
 ## Contato
