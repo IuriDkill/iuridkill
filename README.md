@@ -34,6 +34,10 @@ Sou um desenvolvedor com experiência principalmente em front-end. Tenho um fort
 ## Stats 📊
 
 <br>
+
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
+<br>
     
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IuriDkill&theme=github-dark-dimmed&bg_color=161b22&hide_border=true" height="160" alt="Iuri's Activity Graph"/>
